@@ -13,7 +13,7 @@ Geant4 example code for tutorials
 ## License
 BSD 2-Clause License
 
-Copyright (c) 2019, Koichi Murakami
+Copyright &copy; 2022 KEK, the High Energy Accelerator Research Organization
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
