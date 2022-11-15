@@ -1,12 +1,12 @@
 # Geant4 Examples for Tutorials 2022
 
 [![geant4](https://img.shields.io/badge/geant4-11.0-blue.svg)](http://www.geant4.org/)
-[![g4tut](https://img.shields.io/badge/g4tut-2022.10-orange.svg)](https://wiki.kek.jp/display/geant4)
+[![g4tut](https://img.shields.io/badge/g4tut-2022.12-orange.svg)](https://wiki.kek.jp/display/geant4)
 
 
 Geant4 example code for tutorials
 
-* 2022.11 (v11.0.p03)
+* 2022.12 (v11.0.p03)
 
 ## License
 BSD 2-Clause License
