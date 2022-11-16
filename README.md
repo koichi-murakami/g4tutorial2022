@@ -14,6 +14,7 @@ Geant4 example code for tutorials
 BSD 2-Clause License
 
 Copyright &copy; 2022 KEK, the High Energy Accelerator Research Organization
+
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
